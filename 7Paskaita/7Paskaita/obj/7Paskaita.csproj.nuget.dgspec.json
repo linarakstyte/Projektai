@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\7Paskaita\\7Paskaita\\7Paskaita.csproj": {}
+    "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\Projektai\\7Paskaita\\7Paskaita\\7Paskaita.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\7Paskaita\\7Paskaita\\7Paskaita.csproj": {
+    "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\Projektai\\7Paskaita\\7Paskaita\\7Paskaita.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\7Paskaita\\7Paskaita\\7Paskaita.csproj",
+        "projectUniqueName": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\Projektai\\7Paskaita\\7Paskaita\\7Paskaita.csproj",
         "projectName": "7Paskaita",
-        "projectPath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\7Paskaita\\7Paskaita\\7Paskaita.csproj",
+        "projectPath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\Projektai\\7Paskaita\\7Paskaita\\7Paskaita.csproj",
         "packagesPath": "C:\\Users\\olivi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\7Paskaita\\7Paskaita\\obj\\",
+        "outputPath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\Projektai\\7Paskaita\\7Paskaita\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olivi\\AppData\\Roaming\\NuGet\\NuGet.Config",

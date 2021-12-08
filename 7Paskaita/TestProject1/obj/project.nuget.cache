@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZVYLLOQgCe0G/CC7U4k02e4rlhpTWjybsF8UNB5wRlJaKZchdve45aXTNF0Q7+3yqxLkdRlVtrRquegLWlrq7Q==",
+  "dgSpecHash": "3nmeGryL7giNWjaBEK8Ga9yfYQm16mSzra7RtU7f7LqVwY7gcuX+BSD6YHBFb5u3/2O2iXGdOw+xSuE7GHgkfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\VIIPaskaita\\7Paskaita\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\olivi\\OneDrive\\Desktop\\101\\.NET\\Github\\Projektai\\Projektai\\7Paskaita\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olivi\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\olivi\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

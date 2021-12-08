@@ -41,7 +41,7 @@ namespace _7Paskaita
         //    }
         //}
 
-       
+
 
         //    public struct BibliotekosKnyga
         //    {
@@ -57,7 +57,7 @@ namespace _7Paskaita
         //            Vardas = vardas; ;
         //            Data = data;
         //        }
-            
+
         //        public KiekDienu (DateTime data)
         //        {
         //            DateTime
@@ -70,10 +70,28 @@ namespace _7Paskaita
         //        Console.WriteLine($"{ mokinys.Vardas} {mokinys.Pavarde} {mokinys.KursoPradzia} {mokinys.KursoPabaiga}");
 
 
-           // }
+        // }
 
+        public static decimal SkaiciuotiMokescius(decimal pajamos)
+        {
+            decimal rezultatas = 0;
 
+            if (pajamos <= 400)
+            {
+                rezultatas = pajamos * 0.05m;
+            }
+            else if (pajamos > 400 && pajamos <= 1000)
+            {
+                rezultatas = pajamos * 0.15m;
+            }
+            else
+            {
+                rezultatas = pajamos * 0.25m;
+            }
 
+            return rezultatas;
         }
+
+    }
     }
 }
