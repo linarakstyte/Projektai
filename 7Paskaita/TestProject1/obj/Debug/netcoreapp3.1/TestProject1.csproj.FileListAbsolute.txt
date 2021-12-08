@@ -1,0 +1,6 @@
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\TestProject1\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.csproj.AssemblyReference.cache
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.AssemblyInfoInputs.cache
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.AssemblyInfo.cs
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\TestProject1\obj\Debug\netcoreapp3.1\TestProject1.csproj.CoreCompileInputs.cache
