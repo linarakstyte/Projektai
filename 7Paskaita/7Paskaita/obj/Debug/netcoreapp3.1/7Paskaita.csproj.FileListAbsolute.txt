@@ -12,3 +12,17 @@ C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\7Paskaita\
 C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.dll
 C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.pdb
 C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\VIIPaskaita\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.genruntimeconfig.cache
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.csproj.AssemblyReference.cache
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.AssemblyInfoInputs.cache
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.AssemblyInfo.cs
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.csproj.CoreCompileInputs.cache
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.dll
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.pdb
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\bin\Debug\netcoreapp3.1\7Paskaita.exe
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\bin\Debug\netcoreapp3.1\7Paskaita.deps.json
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\bin\Debug\netcoreapp3.1\7Paskaita.runtimeconfig.json
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\bin\Debug\netcoreapp3.1\7Paskaita.runtimeconfig.dev.json
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\bin\Debug\netcoreapp3.1\7Paskaita.dll
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\bin\Debug\netcoreapp3.1\7Paskaita.pdb
+C:\Users\olivi\OneDrive\Desktop\101\.NET\Github\Projektai\Projektai\7Paskaita\7Paskaita\obj\Debug\netcoreapp3.1\7Paskaita.genruntimeconfig.cache
