@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8Paskaita", "8Paskaita\8Paskaita.csproj", "{E696E216-EF59-482F-919B-E3ED9DBD6452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStruct", "BookStruct\BookStruct.csproj", "{CA850E01-3377-45A5-8802-07E84CDA0914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E696E216-EF59-482F-919B-E3ED9DBD6452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E696E216-EF59-482F-919B-E3ED9DBD6452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E696E216-EF59-482F-919B-E3ED9DBD6452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E696E216-EF59-482F-919B-E3ED9DBD6452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA850E01-3377-45A5-8802-07E84CDA0914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA850E01-3377-45A5-8802-07E84CDA0914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA850E01-3377-45A5-8802-07E84CDA0914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA850E01-3377-45A5-8802-07E84CDA0914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB854B5-9454-4126-B510-65ECF7ACBFDF}
+	EndGlobalSection
+EndGlobal
